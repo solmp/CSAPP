@@ -25,10 +25,12 @@ description: 勿以浮沙筑高台
 * 项目初定周期为三个月，根据具体情况可能会延长至6-8个月，甚至更长，希望能够坚持下来；
 * 笔记内容主要依照书和网络上系统的课程，结合个人理解和网络中搜索到的庞杂资料形成；
 * 内容尽量有所依，但受限个人，难免有误，如有疑议，欢迎讨论；
-* 本项目内容可通过 GitBook 阅读；
+* 本项目内容可通过 GitBook 在线阅读，地址：[https://solmp.gitbook.io/csapp/](https://solmp.gitbook.io/csapp/)
+* 相关源码放在项目仓库中：[https://github.com/solmp/CSAPP](https://github.com/solmp/CSAPP)
 
 ## 参考课程和资料
 
+* CSAPP第三版电子书（中文+英文）：[https://www.aliyundrive.com/s/jx5jXkRWyN6](https://www.aliyundrive.com/s/jx5jXkRWyN6) 提取码：09yf
 * [B站视频\_深入理解计算机系统 - CSAPP重点导读\_fengmuzi2003](https://www.bilibili.com/video/BV1RK4y1R7Kf)
 * [网站资料\_CSAPP重点解读 (gitbook.io)](https://fengmuzi2003.gitbook.io/csapp3e/)
 * [B站视频【精校中英字幕】2015 CMU 15-213 CSAPP 深入理解计算机系统](https://www.bilibili.com/video/av31289365/)
