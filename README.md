@@ -22,9 +22,10 @@
 - 笔记内容主要依照书和网络上系统的课程，结合个人理解和网络中搜索到的庞杂资料形成；
 - 内容尽量有所依，但受限个人，难免有误，如有疑议，欢迎讨论；
 - 本项目内容可通过 GitBook 在线阅读，地址：<https://solmp.gitbook.io/csapp/>
-- 考虑到书中有实验，会产生一系列代码，并且实验环境的配置中也可能遇到各种问题，我另增一个文件夹，如此种种，都将放在[此项目GitHub仓库的补充内容文件夹](https://github.com/solmp/CSAPP/tree/main)下
 
 ## 参考课程和资料
+
+- CSAPP第三版电子书（中文+英文）：<https://www.aliyundrive.com/s/jx5jXkRWyN6> 提取码：09yf
 
 - [B站视频_深入理解计算机系统 - CSAPP重点导读\_fengmuzi2003](https://www.bilibili.com/video/BV1RK4y1R7Kf) 
 - [网站资料_CSAPP重点解读 (gitbook.io)](https://fengmuzi2003.gitbook.io/csapp3e/) 
