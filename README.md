@@ -30,7 +30,7 @@ description: 勿以浮沙筑高台
 
 ## 参考课程和资料
 
-* CSAPP第三版电子书（中文+英文）：[https://www.aliyundrive.com/s/jx5jXkRWyN6](https://www.aliyundrive.com/s/jx5jXkRWyN6) 提取码：09yf
+* 相关电子书：[https://www.aliyundrive.com/s/HqGdRG5M1Fk](https://www.aliyundrive.com/s/HqGdRG5M1Fk) 提取码：a90f
 * [B站视频\_深入理解计算机系统 - CSAPP重点导读\_fengmuzi2003](https://www.bilibili.com/video/BV1RK4y1R7Kf)
 * [网站资料\_CSAPP重点解读 (gitbook.io)](https://fengmuzi2003.gitbook.io/csapp3e/)
 * [B站视频【精校中英字幕】2015 CMU 15-213 CSAPP 深入理解计算机系统](https://www.bilibili.com/video/av31289365/)
